@@ -1,7 +1,7 @@
 # Sistema Web de Control de Inventario
 ## Probar
 
-URL: http://localhost/inventario/login.php
+URL: https://sistema-inventario.freehosting.dev/index.php
 ### Credenciales para probrar 
 
 usuario: admin
